@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import ru.litres.pages.ProjectPage;
 import static io.qameta.allure.Allure.step;
 
-
+@Tag("litres project")
 public class ProjectTests extends TestBase{
     ProjectPage projectPage = new ProjectPage();
 

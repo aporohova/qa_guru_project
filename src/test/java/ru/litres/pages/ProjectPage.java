@@ -13,7 +13,7 @@ public class ProjectPage {
             search = $(".SearchForm-module__input_1E6az"),
             searchResult = $(".SearchTitle-module__title_YEbWG"),
             login = $(".Login-module__wrapper_1YKv5"),
-            loginVK = $(".AuthorizationPopup-module__socials__link_name_2dk_w"),
+            loginVK = $(".AuthorizationPopup-module__socials__link_name_3sDHF"),
             loginPhone = $(byText("Номер телефона")),
             phoneInput = $(".PhoneCodes__numberInput_2Tejv"),
             nextButton = $(byText("Продолжить")),

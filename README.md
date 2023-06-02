@@ -106,12 +106,12 @@ ___
 ### *Авто тест-кейсы*
 
 <p>="center">  
-<img title="Allure TestOps Tests" src="images/screenshots/testops_auto.png" width="850">  
+<img alt="Allure TestOps Tests" src="images/screenshots/testops_auto.png" width="850">  
 </p>
 
 ___
 
-## <img alt="Allure" height="25" src="images/logo/Jira.svg" width="25"/></a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-717">Jira</a>
+## <img alt="Allure" height="25" src="images/logo/jira.svg" width="25"/></a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-717">Jira</a>
 ____
 <p align="center">  
 <img title="Jira" src="images/screenshots/jira.png" width="">  
@@ -119,7 +119,7 @@ ____
 
 ____
 
-## <img alt="Allure" height="25" src="images/logo/Telegram.svg" width="25"/></a> Уведомление в Telegram при помощи бота
+## <img alt="Allure" height="25" src="images/logo/telegram.svg" width="25"/></a> Уведомление в Telegram при помощи бота
 ____
 <p align="center">  
 <img title="Allure Overview Dashboard" src="images/screenshots/telegram_bot.png" width="550">  

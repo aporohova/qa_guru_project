@@ -43,7 +43,7 @@ ___
 
 ___
 
-## <img alt="Jenkins" height="25" src="images/logo/Jenkins.svg" width="25"/></a><a name="Сборка"></a>Сборка в [Jenkins](https://jenkins.autotests.cloud/job/Project_For_Litres/)</a>
+## <img alt="Jenkins" height="25" src="images/logo/jenkins.svg" width="25"/></a><a name="Сборка"></a>Сборка в [Jenkins](https://jenkins.autotests.cloud/job/Project_For_Litres/)</a>
 
 ___
 <p align="center">
@@ -111,7 +111,7 @@ ___
 
 ___
 
-## <img alt="Allure" height="25" src="images/logo/jira.svg" width="25"/></a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-717">Jira</a>
+## <img alt="Allure" height="25" src="images/logo/jira.svg" width="45"/></a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-717">Jira</a>
 ____
 <p align="center">  
 <img title="Jira" src="images/screenshots/jira.png" width="">  

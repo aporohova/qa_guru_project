@@ -52,13 +52,6 @@ ___
 
 ## **Параметры сборки в Jenkins:**
 
-### Команды для запуска из терминала
-___
-***Локальный запуск***
-
-```bash  
-gradle clean smoke_test
-```
 ***Удалённый запуск через Jenkins:***
 ```bash  
 clean
@@ -106,13 +99,13 @@ ___
 
 ### *Ручные тест-кейсы*
 
-<p align="center">  
+<p>="center">  
 <img title="Allure Tests" src="images/screenshots/testops_manual.png" width="850">  
 </p>
 
 ### *Авто тест-кейсы*
 
-<p align="center">  
+<p>="center">  
 <img title="Allure TestOps Tests" src="images/screenshots/testops_auto.png" width="850">  
 </p>
 

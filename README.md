@@ -99,13 +99,13 @@ ___
 
 ### *Ручные тест-кейсы*
 
-<p>="center">  
+<p align="center">  
 <img title="Allure Tests" src="images/screenshots/testops_manual.png" width="850">  
 </p>
 
 ### *Авто тест-кейсы*
 
-<p>="center">  
+<p align="center">  
 <img alt="Allure TestOps Tests" src="images/screenshots/testops_auto.png" width="850">  
 </p>
 

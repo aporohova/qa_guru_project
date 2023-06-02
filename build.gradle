@@ -42,17 +42,17 @@ tasks.withType(Test) {
     systemProperties(System.getProperties())
 }
 
-task registration_form(type: Test) {
+task litres_project(type: Test) {
     useJUnitPlatform {
         includeTags("litres_project")
 
-        task blocker(type: Test) {
+        task smoke(type: Test) {
             useJUnitPlatform {
                 includeTags("smoke")
             }
         }
 
-        task smoke(type: Test) {
+        task remote(type: Test) {
             useJUnitPlatform {
                 includeTags("remote")
             }
